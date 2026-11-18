@@ -1,4 +1,4 @@
-# Daisy Disaster 
+# Daisy Disaster 🌼
 
 **Cute things. Questionable decisions.**
 
@@ -6,11 +6,11 @@ Daisy Disaster is a playful online shop built with React, Next.js, TypeScript an
 
 ## Live site
 
-https://onlineshop-teal.vercel.app/
+[Visit Daisy Disaster](https://onlineshop-teal.vercel.app/)
 
 ## Repository
 
-https://github.com/juliethron/onlineshop
+[GitHub Repository](https://github.com/juliethron/onlineshop)
 
 ## Features
 
@@ -22,6 +22,7 @@ https://github.com/juliethron/onlineshop
 - Add products to a shopping cart
 - Update product quantities and remove items from the cart
 - Cart data persists using localStorage
+- Toast notifications when adding and removing products
 - Complete a demo checkout process
 - View an order confirmation page
 - Contact form with input validation
@@ -36,6 +37,7 @@ https://github.com/juliethron/onlineshop
 - Noroff Online Shop API
 - localStorage
 - Git and GitHub
+- Vercel
 
 ## Getting started
 
@@ -49,7 +51,7 @@ https://github.com/juliethron/onlineshop
 1. Clone the repository:
 
    ```bash
-   git clone [YOUR REPOSITORY URL]
+   git clone https://github.com/juliethron/onlineshop.git
    ```
 
 2. Navigate into the project folder:
