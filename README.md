@@ -6,11 +6,11 @@ Daisy Disaster is a playful online shop built with React, Next.js, TypeScript an
 
 ## Live site
 
-[Add your deployed website URL here]
+https://onlineshop-teal.vercel.app/
 
 ## Repository
 
-[Add your GitHub repository URL here]
+https://github.com/juliethron/onlineshop
 
 ## Features
 
